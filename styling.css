@@ -1,0 +1,13 @@
+.games p {
+    font-size: 100px;
+
+}
+
+.games{
+    border-radius: 25px;
+    padding: 2px;
+    border: solid 5px;
+    text-align: center;
+}
+
+
