@@ -1,9 +1,7 @@
-.games p {
-    font-size: 100px;
 
-}
 
 .games{
+    font-size: 100px;
     border-radius: 25px;
     padding: 2px;
     border: solid 5px;
